@@ -1,7 +1,7 @@
 {
-  "name": "baileys",
+  "name": "@Baileys",
   "version": "6.7.8",
-  "description": "WhatsApp API",
+  "description": "WhatsApp Bot API",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "https://github.com/Dev-Diego/Baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:Dev-Diego/Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
