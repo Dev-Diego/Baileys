@@ -21,7 +21,7 @@
 ---
 
 > [!WARNING]
-> Este baileys contiene la actualización de PhoneNumber que detecta los prefijos para ser Bot medinte código de 8 digitos.
+> Este baileys contiene la actualización de PhoneNumber que detecta los prefijos para ser Bot mediante código de 8 digitos.
 
 ---
 
